@@ -1,3 +1,6 @@
+# Example from baeldung.com
+https://www.baeldung.com/java-airline
+
 # Execute gradle task 'build/jar', fat jar will be generated
 ./gradlew jar
 
